@@ -1,2 +1,3 @@
 # Adivinhar_Numero
-Projeto de estudo de css
+
+Projeto de estudo de css e javascript
